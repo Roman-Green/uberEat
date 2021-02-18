@@ -11,7 +11,7 @@
 }
 
 html {
-    overflow-x: hiden;
+    overflow-x: hidden;
 }
 
 .wrapper {
@@ -268,7 +268,7 @@ html {
 footer {
     background-color: #262626;
     position: relative;
-    width: 1005;
+    width: 100%;
 }
 
 .footer-logo {
@@ -308,7 +308,7 @@ form select {
 }
 
 .icon {
-    position: absolutes;
+    position: absolute;
     content: "";
     background-image: url("world.svg");
     background-repeat: no-repeat;
